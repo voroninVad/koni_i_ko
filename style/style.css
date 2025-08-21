@@ -104,7 +104,7 @@ input[type="checkbox"] {
 
 .banner {
   height: 90vh;
-  background-image: url("/img/photo_2025-08-14_23-27-43.jpg");
+  background-image: url("img/photo_2025-08-14_23-27-43.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top 100% left 0;
